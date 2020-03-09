@@ -1,4 +1,4 @@
-<link rel="icon" href="/pd_icon.png" type="image/x-icon" />
+<link rel="shortcut icon" type="image/png" href="/pd_icon.ico"/>
 
 ## Welcome to GitHub Pages
 
